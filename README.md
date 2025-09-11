@@ -1,5 +1,6 @@
 # BIOS Splitter/Merger Tool
 
+![Alt text](biossplit.jpg)
 ---
 
 ## Overview
