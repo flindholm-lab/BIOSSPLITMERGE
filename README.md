@@ -16,7 +16,7 @@ A Lazarus/Free Pascal tool to split and merge binary files using either odd/even
 ---
 
 ## Requirements
-- Lazarus 4 (or Free Pascal with LCL)
+- For compiling Lazarus 4 (or Free Pascal with LCL)
 - Tested on **Windows**
 
 ---
